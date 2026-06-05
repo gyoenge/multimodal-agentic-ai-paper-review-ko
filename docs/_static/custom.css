@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap');
+
+/* 논문 리뷰에 맞게 본문 가독성 향상 */
+.rst-content p,
+article p {
+    line-height: 1.85;
+}
+
+/* 인용문 스타일 (논문 초록 등) */
+blockquote {
+    border-left: 3px solid var(--color-brand-primary);
+    background: var(--color-background-secondary);
+    padding: 0.75rem 1rem;
+    margin: 1rem 0;
+    font-style: italic;
+}
