@@ -24,6 +24,7 @@ source_suffix = {
 
 html_theme = "furo"
 html_title = "AI Paper Review"
+html_favicon = "_static/favicon.png"
 html_static_path = ["_static"]
 
 html_theme_options = {
