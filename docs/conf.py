@@ -1,4 +1,4 @@
-project = "VLM Paper Review KO"
+project = "Multimodal & Agent AI Paper Review KO"
 author = "gyoenge"
 copyright = "2024, gyoenge"
 release = "0.1.0"
@@ -23,7 +23,7 @@ source_suffix = {
 }
 
 html_theme = "furo"
-html_title = "VLM Paper Review KO"
+html_title = "Multimodal & Agent AI Paper Review KO"
 html_static_path = ["_static"]
 
 html_theme_options = {
