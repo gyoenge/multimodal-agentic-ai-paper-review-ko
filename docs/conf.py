@@ -9,6 +9,8 @@ extensions = [
     "sphinx_copybutton",
 ]
 
+autosectionlabel_prefix_document = True
+
 myst_enable_extensions = [
     "colon_fence",
     "deflist",
