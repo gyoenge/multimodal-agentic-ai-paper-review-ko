@@ -1,6 +1,6 @@
-project = "Multimodal & Agent AI Paper Review KO"
+project = "AI Paper Review KO"
 author = "gyoenge"
-copyright = "2024, gyoenge"
+copyright = "2026, gyoenge"
 release = "0.1.0"
 
 extensions = [
@@ -23,7 +23,7 @@ source_suffix = {
 }
 
 html_theme = "furo"
-html_title = "Multimodal & Agent AI Paper Review KO"
+html_title = "AI Paper Review KO"
 html_static_path = ["_static"]
 
 html_theme_options = {
