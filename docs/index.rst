@@ -28,3 +28,9 @@ VLM, LLM, VLA 분야의 주요 논문을 한국어로 리뷰하고 정리하는 
    :caption: VLA
 
    reviews/vla/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Agent AI
+
+   reviews/agent/index

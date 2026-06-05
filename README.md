@@ -93,3 +93,23 @@ VLM, LLM, VLA 분야의 주요 논문을 한국어로 리뷰하고 정리하는 
 | ⬜ | π0.5 | Physical Intelligence | 2025 |
 | ⬜ | Helix | Figure AI | 2025 |
 
+### Agent AI
+
+| 상태 | 논문 | 기관 | 발표 |
+|:----:|------|------|------|
+| ⬜ | ReAct | Princeton / Google | ICLR 2023 |
+| ⬜ | Toolformer | Meta | NeurIPS 2023 |
+| ⬜ | Generative Agents | Stanford | UIST 2023 |
+| ⬜ | Voyager | NVIDIA et al. | 2023 |
+| ⬜ | AutoGen | Microsoft | 2023 |
+| ⬜ | AgentBench | 清华大学 | ICLR 2024 |
+| ⬜ | WebArena | CMU et al. | 2024 |
+| ⬜ | OSWorld | 여러 기관 | 2024 |
+| ⬜ | CogAgent | 清华大학 | CVPR 2024 |
+| ⬜ | SWE-agent | Princeton | 2024 |
+| ⬜ | OpenHands | - | 2024 |
+| ⬜ | Claude Computer Use | Anthropic | 2024 |
+| ⬜ | Browser Use | - | 2024 |
+| ⬜ | Agentless | UIUC | 2024 |
+| ⬜ | Manus | - | 2025 |
+

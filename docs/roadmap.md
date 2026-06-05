@@ -93,3 +93,32 @@
 | ⬜ | [RoboVLMs](reviews/vla/robovlms.md) | - | 2024 | VLM을 로봇 정책에 적용하는 체계적 연구 |
 | ⬜ | [π0.5](reviews/vla/pi0-5.md) | Physical Intelligence | 2025 | 언어 지시 기반 범용 로봇 |
 | ⬜ | [Helix](reviews/vla/helix.md) | Figure AI | 2025 | 인간형 로봇을 위한 VLA |
+
+---
+
+## Agent AI
+
+### Agent 핵심 논문
+
+| 상태 | 논문 | 기관 | 발표 | 한 줄 요약 |
+|:----:|------|------|------|------------|
+| ⬜ | [ReAct](reviews/agent/react.md) | Princeton / Google | ICLR 2023 | Reasoning + Acting 결합, LLM 에이전트 기반 |
+| ⬜ | [Toolformer](reviews/agent/toolformer.md) | Meta | NeurIPS 2023 | LLM이 스스로 툴 사용법을 학습 |
+| ⬜ | [Generative Agents](reviews/agent/generative-agents.md) | Stanford | UIST 2023 | 25개 AI 캐릭터가 사회적 행동 시뮬레이션 |
+| ⬜ | [Voyager](reviews/agent/voyager.md) | NVIDIA et al. | 2023 | Minecraft에서 LLM 기반 오픈엔디드 에이전트 |
+| ⬜ | [AutoGen](reviews/agent/autogen.md) | Microsoft | 2023 | 멀티 에이전트 대화 프레임워크 |
+| ⬜ | [AgentBench](reviews/agent/agentbench.md) | 清华大学 | ICLR 2024 | LLM을 에이전트로 평가하는 종합 벤치마크 |
+
+### Agent 최신 논문 (~2025)
+
+| 상태 | 논문 | 기관 | 연도 | 특징 |
+|:----:|------|------|------|------|
+| ⬜ | [WebArena](reviews/agent/webarena.md) | CMU et al. | 2024 | 실제 웹 환경 에이전트 벤치마크 |
+| ⬜ | [OSWorld](reviews/agent/osworld.md) | 여러 기관 | 2024 | GUI 컴퓨터 조작 에이전트 벤치마크 |
+| ⬜ | [CogAgent](reviews/agent/cogagent.md) | 清华大学 | CVPR 2024 | GUI 이해·탐색 특화 VLM |
+| ⬜ | [SWE-agent](reviews/agent/swe-agent.md) | Princeton | 2024 | 소프트웨어 엔지니어링 에이전트, SWE-bench |
+| ⬜ | [OpenHands](reviews/agent/openhands.md) | - | 2024 | 오픈소스 AI 소프트웨어 개발 에이전트 |
+| ⬜ | [Claude Computer Use](reviews/agent/computer-use.md) | Anthropic | 2024 | 화면·키보드·마우스 직접 조작 |
+| ⬜ | [Browser Use](reviews/agent/browser-use.md) | - | 2024 | LLM 기반 웹 브라우저 자동화 |
+| ⬜ | [Agentless](reviews/agent/agentless.md) | UIUC | 2024 | 에이전트 없이 SWE-bench 해결 |
+| ⬜ | [Manus](reviews/agent/manus.md) | - | 2025 | 범용 자율 에이전트 |
