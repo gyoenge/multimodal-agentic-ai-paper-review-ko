@@ -1,4 +1,4 @@
-project = "AI Paper Review KO"
+project = "AI Paper Review"
 author = "gyoenge"
 copyright = "2026, gyoenge"
 release = "0.1.0"
@@ -23,7 +23,7 @@ source_suffix = {
 }
 
 html_theme = "furo"
-html_title = "AI Paper Review KO"
+html_title = "AI Paper Review"
 html_static_path = ["_static"]
 
 html_theme_options = {
