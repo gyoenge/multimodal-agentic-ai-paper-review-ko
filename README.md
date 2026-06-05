@@ -1,6 +1,6 @@
 # VLM Paper Review KO
 
-VLM, LLM, VLA 분야의 주요 논문을 한국어로 리뷰하고 정리하는 저장소입니다.
+VLM, LLM, VLA, Agent AI 분야의 주요 논문을 한국어로 리뷰하고 정리하는 저장소입니다.
 
 📖 **문서 사이트**: [vlm-paper-review-ko.readthedocs.io](https://vlm-paper-review-ko.readthedocs.io/en/latest/)
 
@@ -13,6 +13,7 @@ VLM, LLM, VLA 분야의 주요 논문을 한국어로 리뷰하고 정리하는 
 | **VLM** | Vision-Language Model |
 | **LLM** | Large Language Model |
 | **VLA** | Vision-Language-Action |
+| **Agent AI** | LLM 기반 에이전트 |
 
 ## 리뷰 구성
 
