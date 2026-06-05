@@ -6,9 +6,9 @@
 
 ---
 
-## VLM (Vision-Language Model)
+### VLM (Vision-Language Model)
 
-### VLM 핵심 논문
+VLM 핵심 논문
 
 | 상태 | 논문 | 기관 | 발표 | 한 줄 요약 |
 |:----:|------|------|------|------------|
@@ -21,7 +21,7 @@
 | ⬜ | [InstructBLIP](reviews/vlm/instructblip.md) | Salesforce | NeurIPS 2023 | instruction-aware Q-Former |
 | ⬜ | [GPT-4V](reviews/vlm/gpt4v.md) | OpenAI | 2023 | 상용 최강 VLM, 멀티모달 추론 |
 
-### VLM 최신 논문 (~2025)
+VLM 최신 논문 (~2025)
 
 | 상태 | 논문 | 기관 | 연도 | 특징 |
 |:----:|------|------|------|------|
@@ -37,9 +37,9 @@
 
 ---
 
-## LLM (Large Language Model)
+### LLM (Large Language Model)
 
-### LLM 핵심 논문
+LLM 핵심 논문
 
 | 상태 | 논문 | 기관 | 발표 | 한 줄 요약 |
 |:----:|------|------|------|------------|
@@ -52,7 +52,7 @@
 | ⬜ | [LLaMA 2](reviews/llm/llama2.md) | Meta | 2023 | RLHF 포함 chat 버전 공개 |
 | ⬜ | [Mistral 7B](reviews/llm/mistral-7b.md) | Mistral AI | 2023 | GQA + sliding window attention |
 
-### LLM 최신 논문 (~2025)
+LLM 최신 논문 (~2025)
 
 | 상태 | 논문 | 기관 | 연도 | 특징 |
 |:----:|------|------|------|------|
@@ -68,9 +68,9 @@
 
 ---
 
-## VLA (Vision-Language-Action)
+### VLA (Vision-Language-Action)
 
-### VLA 핵심 논문
+VLA 핵심 논문
 
 | 상태 | 논문 | 기관 | 발표 | 한 줄 요약 |
 |:----:|------|------|------|------------|
@@ -80,7 +80,7 @@
 | ⬜ | [PaLM-E](reviews/vla/palm-e.md) | Google | ICML 2023 | 562B embodied multimodal LM |
 | ⬜ | [RT-2](reviews/vla/rt2.md) | Google DeepMind | CoRL 2023 | VLM 웹 지식을 로봇 제어로 직접 전이 |
 
-### VLA 최신 논문 (~2025)
+VLA 최신 논문 (~2025)
 
 | 상태 | 논문 | 기관 | 연도 | 특징 |
 |:----:|------|------|------|------|
@@ -96,9 +96,9 @@
 
 ---
 
-## Agent AI
+### Agentic AI
 
-### Agent 핵심 논문
+Agent 핵심 논문
 
 | 상태 | 논문 | 기관 | 발표 | 한 줄 요약 |
 |:----:|------|------|------|------------|
@@ -109,7 +109,7 @@
 | ⬜ | [AutoGen](reviews/agent/autogen.md) | Microsoft | 2023 | 멀티 에이전트 대화 프레임워크 |
 | ⬜ | [AgentBench](reviews/agent/agentbench.md) | 清华大学 | ICLR 2024 | LLM을 에이전트로 평가하는 종합 벤치마크 |
 
-### Agent 최신 논문 (~2025)
+Agent 최신 논문 (~2025)
 
 | 상태 | 논문 | 기관 | 연도 | 특징 |
 |:----:|------|------|------|------|
@@ -122,3 +122,4 @@
 | ⬜ | [Browser Use](reviews/agent/browser-use.md) | - | 2024 | LLM 기반 웹 브라우저 자동화 |
 | ⬜ | [Agentless](reviews/agent/agentless.md) | UIUC | 2024 | 에이전트 없이 SWE-bench 해결 |
 | ⬜ | [Manus](reviews/agent/manus.md) | - | 2025 | 범용 자율 에이전트 |
+
