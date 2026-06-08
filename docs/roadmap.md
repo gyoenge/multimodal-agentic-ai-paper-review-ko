@@ -43,7 +43,7 @@ LLM 핵심 논문
 
 | 상태 | 논문 | 기관 | 발표 | 한 줄 요약 |
 |:----:|------|------|------|------------|
-| ⬜ | [Transformer](reviews/llm/transformer.md) | Google | NeurIPS 2017 | Transformer 아키텍처 제안 |
+| ✅ | [Transformer](reviews/llm/transformer.md) | Google | NeurIPS 2017 | Transformer 아키텍처 제안 |
 | ⬜ | [GPT-3](reviews/llm/gpt3.md) | OpenAI | NeurIPS 2020 | 175B 파라미터, few-shot learning |
 | ⬜ | [T5](reviews/llm/t5.md) | Google | JMLR 2020 | 모든 NLP 태스크를 text-to-text로 통일 |
 | ⬜ | [InstructGPT](reviews/llm/instructgpt.md) | OpenAI | NeurIPS 2022 | RLHF로 instruction following 정렬 |

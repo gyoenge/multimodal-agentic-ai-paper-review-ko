@@ -7,6 +7,7 @@ extensions = [
     "myst_parser",
     "sphinx.ext.autosectionlabel",
     "sphinx_copybutton",
+    "sphinx.ext.mathjax",
 ]
 
 autosectionlabel_prefix_document = True
@@ -15,6 +16,8 @@ myst_enable_extensions = [
     "colon_fence",
     "deflist",
     "tasklist",
+    "dollarmath",
+    "amsmath",
 ]
 
 source_suffix = {
