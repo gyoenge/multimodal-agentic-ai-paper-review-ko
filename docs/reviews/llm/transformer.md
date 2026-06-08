@@ -151,7 +151,9 @@ English-to-French task에서도 Transformer (big)는 **41.8 BLEU**로 단일 모
 Base 모델 역시 기존에 발표된 모든 모델 및 앙상블 모델의 성능을 능가하면서도, 학습 비용은 훨씬 적게 소요되었다. 
 이는 Transformer가 recurrence나 convolution 기반 아키텍처에 비해 **학습 속도와 병렬화 측면에서 크게 유리**하다는 점을 실험적으로 뒷받침한다.
 
-> **참고 — BLEU Score**: 
+> **참고 — BLEU Score**: BLEU(Bilingual Evaluation Understudy)는 기계 번역 결과의 품질을 평가하는 대표적인 지표로, 모델이 생성한 번역문이 사람이 작성한 정답 번역(reference)과 얼마나 겹치는지를 n-gram 단위로 비교하여 점수를 산출한다. 
+점수가 높을수록 정답 번역과 어휘·어순이 유사하다는 의미이며, 0~100(또는 0~1) 범위로 표현된다. 
+다만 n-gram의 표면적 일치만을 측정하므로, 의미는 같지만 표현이 다른 번역은 낮게 평가될 수 있다는 한계도 있다.
 
 <br/>
 
