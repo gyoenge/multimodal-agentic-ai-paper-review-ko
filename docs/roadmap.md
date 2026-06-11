@@ -12,12 +12,12 @@ VLM 핵심 논문
 
 | 상태 | 논문 | 기관 | 발표 | 한 줄 요약 |
 |:----:|------|------|------|------------|
-| ⬜ | [CLIP](reviews/vlm/clip.md) | OpenAI | ICML 2021 | 대규모 이미지-텍스트 대조 학습으로 zero-shot 전이 |
+| 🔄 | [CLIP](reviews/vlm/clip.md) | OpenAI | ICML 2021 | 대규모 이미지-텍스트 대조 학습으로 zero-shot 전이 |
 | ⬜ | [ALIGN](reviews/vlm/align.md) | Google | ICML 2021 | noisy 웹 데이터로 image-text 표현 학습 스케일업 |
 | ⬜ | [Flamingo](reviews/vlm/flamingo.md) | DeepMind | NeurIPS 2022 | frozen LM에 visual 입력 연결, few-shot VLM |
-| ⬜ | [BLIP](reviews/vlm/blip.md) | Salesforce | ICML 2022 | 캡션 생성으로 noisy 데이터 부트스트랩 |
-| ⬜ | [BLIP-2](reviews/vlm/blip2.md) | Salesforce | ICML 2023 | Q-Former로 frozen 이미지 인코더 + frozen LLM 연결 |
-| ⬜ | [LLaVA](reviews/vlm/llava.md) | - | NeurIPS 2023 | GPT-4 생성 instruction data로 visual tuning |
+| 🔄 | [BLIP](reviews/vlm/blip.md) | Salesforce | ICML 2022 | 캡션 생성으로 noisy 데이터 부트스트랩 |
+| 🔄 | [BLIP-2](reviews/vlm/blip2.md) | Salesforce | ICML 2023 | Q-Former로 frozen 이미지 인코더 + frozen LLM 연결 |
+| 🔄 | [LLaVA](reviews/vlm/llava.md) | - | NeurIPS 2023 | GPT-4 생성 instruction data로 visual tuning |
 | ⬜ | [InstructBLIP](reviews/vlm/instructblip.md) | Salesforce | NeurIPS 2023 | instruction-aware Q-Former |
 | ⬜ | [GPT-4V](reviews/vlm/gpt4v.md) | OpenAI | 2023 | 상용 최강 VLM, 멀티모달 추론 |
 
@@ -46,9 +46,9 @@ LLM 핵심 논문
 | ✅ | [Transformer](reviews/llm/transformer.md) | Google | NeurIPS 2017 | Transformer 아키텍처 제안 |
 | ✅ | [GPT-3](reviews/llm/gpt3.md) | OpenAI | NeurIPS 2020 | 175B 파라미터, few-shot learning |
 | ⬜ | [T5](reviews/llm/t5.md) | Google | JMLR 2020 | 모든 NLP 태스크를 text-to-text로 통일 |
-| ⬜ | [InstructGPT](reviews/llm/instructgpt.md) | OpenAI | NeurIPS 2022 | RLHF로 instruction following 정렬 |
-| ⬜ | [Chain-of-Thought](reviews/llm/chain-of-thought.md) | Google | NeurIPS 2022 | 단계적 추론으로 복잡한 문제 해결 |
-| ⬜ | [LLaMA](reviews/llm/llama.md) | Meta | 2023 | 효율적 오픈소스 LLM의 기준점 |
+| 🔄 | [InstructGPT](reviews/llm/instructgpt.md) | OpenAI | NeurIPS 2022 | RLHF로 instruction following 정렬 |
+| 🔄 | [Chain-of-Thought](reviews/llm/chain-of-thought.md) | Google | NeurIPS 2022 | 단계적 추론으로 복잡한 문제 해결 |
+| 🔄 | [LLaMA](reviews/llm/llama.md) | Meta | 2023 | 효율적 오픈소스 LLM의 기준점 |
 | ⬜ | [LLaMA 2](reviews/llm/llama2.md) | Meta | 2023 | RLHF 포함 chat 버전 공개 |
 | ⬜ | [Mistral 7B](reviews/llm/mistral-7b.md) | Mistral AI | 2023 | GQA + sliding window attention |
 
@@ -57,7 +57,7 @@ LLM 최신 논문 (~2025)
 | 상태 | 논문 | 기관 | 연도 | 특징 |
 |:----:|------|------|------|------|
 | ⬜ | [LLaMA 3](reviews/llm/llama3.md) | Meta | 2024 | 405B 공개, 멀티링구얼 강화 |
-| ⬜ | [Qwen2.5](reviews/llm/qwen2-5.md) | Alibaba | 2024 | 수학·코드 특화, 72B 오픈소스 |
+| 🔄 | [Qwen2.5](reviews/llm/qwen2-5.md) | Alibaba | 2024 | 수학·코드 특화, 72B 오픈소스 |
 | ⬜ | [DeepSeek-V3](reviews/llm/deepseek-v3.md) | DeepSeek | 2024 | MoE 671B, 학습 비용 혁신 |
 | ⬜ | [Gemma 2](reviews/llm/gemma2.md) | Google | 2024 | knowledge distillation, 경량 고성능 |
 | ⬜ | [Phi-3](reviews/llm/phi3.md) | Microsoft | 2024 | 소형 모델 SOTA, textbook 데이터 |
@@ -102,9 +102,9 @@ Agent 핵심 논문
 
 | 상태 | 논문 | 기관 | 발표 | 한 줄 요약 |
 |:----:|------|------|------|------------|
-| ⬜ | [ReAct](reviews/agent/react.md) | Princeton / Google | ICLR 2023 | Reasoning + Acting 결합, LLM 에이전트 기반 |
+| 🔄 | [ReAct](reviews/agent/react.md) | Princeton / Google | ICLR 2023 | Reasoning + Acting 결합, LLM 에이전트 기반 |
 | ⬜ | [Toolformer](reviews/agent/toolformer.md) | Meta | NeurIPS 2023 | LLM이 스스로 툴 사용법을 학습 |
-| ⬜ | [Generative Agents](reviews/agent/generative-agents.md) | Stanford | UIST 2023 | 25개 AI 캐릭터가 사회적 행동 시뮬레이션 |
+| 🔄 | [Generative Agents](reviews/agent/generative-agents.md) | Stanford | UIST 2023 | 25개 AI 캐릭터가 사회적 행동 시뮬레이션 |
 | ⬜ | [Voyager](reviews/agent/voyager.md) | NVIDIA et al. | 2023 | Minecraft에서 LLM 기반 오픈엔디드 에이전트 |
 | ⬜ | [AutoGen](reviews/agent/autogen.md) | Microsoft | 2023 | 멀티 에이전트 대화 프레임워크 |
 | ⬜ | [AgentBench](reviews/agent/agentbench.md) | 清华大学 | ICLR 2024 | LLM을 에이전트로 평가하는 종합 벤치마크 |
