@@ -17,7 +17,7 @@ VLM 핵심 논문
 | ⬜ | [Flamingo](reviews/vlm/flamingo.md) | DeepMind | NeurIPS 2022 | frozen LM에 visual 입력 연결, few-shot VLM |
 | ✅ | [BLIP](reviews/vlm/blip.md) | Salesforce | ICML 2022 | 캡션 생성으로 noisy 데이터 부트스트랩 |
 | ✅ | [BLIP-2](reviews/vlm/blip2.md) | Salesforce | ICML 2023 | Q-Former로 frozen 이미지 인코더 + frozen LLM 연결 |
-| 🔄 | [LLaVA](reviews/vlm/llava.md) | - | NeurIPS 2023 | GPT-4 생성 instruction data로 visual tuning |
+| ✅ | [LLaVA](reviews/vlm/llava.md) | UW-Madison / MS | NeurIPS 2023 | GPT-4 생성 instruction data로 visual tuning |
 | ⬜ | [InstructBLIP](reviews/vlm/instructblip.md) | Salesforce | NeurIPS 2023 | instruction-aware Q-Former |
 | ⬜ | [GPT-4V](reviews/vlm/gpt4v.md) | OpenAI | 2023 | 상용 최강 VLM, 멀티모달 추론 |
 
