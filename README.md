@@ -51,7 +51,7 @@ Multimodal AI, Agentic AI 분야의 주요 논문을 한국어로 리뷰하고 �
 | ⬜ | Molmo | AI2 | 2024 |
 | ⬜ | Cambrian-1 | NYU | 2024 |
 | ⬜ | Janus | DeepSeek | 2024 |
-| ⬜ | Qwen2.5-VL | Alibaba | 2025 |
+| ✅ | Qwen2.5-VL | Alibaba | 2025 |
 | ⬜ | Gemini 2.0 | Google | 2025 |
 
 ### LLM (Large Language Model)

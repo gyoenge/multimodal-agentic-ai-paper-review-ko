@@ -32,7 +32,7 @@ VLM 최신 논문 (~2025)
 | ⬜ | [Molmo](reviews/vlm/molmo.md) | AI2 | 2024 | pointing 능력, 오픈소스 |
 | ⬜ | [Cambrian-1](reviews/vlm/cambrian-1.md) | NYU | 2024 | spatial vision aggregator, 다중 인코더 |
 | ⬜ | [Janus](reviews/vlm/janus.md) | DeepSeek | 2024 | 이해/생성 분리 아키텍처 |
-| ⬜ | [Qwen2.5-VL](reviews/vlm/qwen2-5-vl.md) | Alibaba | 2025 | 문서·영상 이해 최강급 |
+| ✅ | [Qwen2.5-VL](reviews/vlm/qwen2-5-vl.md) | Alibaba | 2025 | 문서·영상 이해 최강급 |
 | ⬜ | [Gemini 2.0](reviews/vlm/gemini2.md) | Google | 2025 | 멀티모달 네이티브, 실시간 처리 |
 
 ---
