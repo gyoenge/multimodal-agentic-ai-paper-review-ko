@@ -42,7 +42,7 @@ Multimodal AI, Agentic AI 분야의 주요 논문을 한국어로 리뷰하고 �
 | ✅ | BLIP | Salesforce | ICML 2022 |
 | ✅ | BLIP-2 | Salesforce | ICML 2023 |
 | ✅ | LLaVA | UW-Madison / MS | NeurIPS 2023 |
-| ⬜ | InstructBLIP | Salesforce | NeurIPS 2023 |
+| ✅ | InstructBLIP | Salesforce / HKUST | NeurIPS 2023 |
 | ⬜ | GPT-4V | OpenAI | 2023 |
 | ⬜ | LLaVA-1.5 | - | 2024 |
 | ⬜ | InternVL2 | Shanghai AI Lab | 2024 |
