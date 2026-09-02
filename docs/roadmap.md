@@ -47,7 +47,7 @@ LLM 핵심 논문
 | ✅ | [GPT-3](reviews/llm/gpt3.md) | OpenAI | NeurIPS 2020 | 175B 파라미터, few-shot learning |
 | ⬜ | [T5](reviews/llm/t5.md) | Google | JMLR 2020 | 모든 NLP 태스크를 text-to-text로 통일 |
 | 🔄 | [InstructGPT](reviews/llm/instructgpt.md) | OpenAI | NeurIPS 2022 | RLHF로 instruction following 정렬 |
-| 🔄 | [Chain-of-Thought](reviews/llm/chain-of-thought.md) | Google | NeurIPS 2022 | 단계적 추론으로 복잡한 문제 해결 |
+| ✅ | [Chain-of-Thought](reviews/llm/chain-of-thought.md) | Google | NeurIPS 2022 | 단계적 추론으로 복잡한 문제 해결 |
 | 🔄 | [LLaMA](reviews/llm/llama.md) | Meta | 2023 | 효율적 오픈소스 LLM의 기준점 |
 | ⬜ | [LLaMA 2](reviews/llm/llama2.md) | Meta | 2023 | RLHF 포함 chat 버전 공개 |
 | ⬜ | [Mistral 7B](reviews/llm/mistral-7b.md) | Mistral AI | 2023 | GQA + sliding window attention |
