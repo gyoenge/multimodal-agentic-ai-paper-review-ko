@@ -104,7 +104,7 @@ Agent 핵심 논문
 |:----:|------|------|------|------------|
 | ✅ | [ReAct](reviews/agent/react.md) | Princeton / Google | ICLR 2023 | Reasoning + Acting 결합, LLM 에이전트 기반 |
 | ✅ | [Toolformer](reviews/agent/toolformer.md) | Meta | NeurIPS 2023 | LLM이 스스로 툴 사용법을 학습 |
-| 🔄 | [Generative Agents](reviews/agent/generative-agents.md) | Stanford | UIST 2023 | 25개 AI 캐릭터가 사회적 행동 시뮬레이션 |
+| ✅ | [Generative Agents](reviews/agent/generative-agents.md) | Stanford / Google | UIST 2023 | 25개 AI 캐릭터가 사회적 행동 시뮬레이션 |
 | ⬜ | [Voyager](reviews/agent/voyager.md) | NVIDIA et al. | 2023 | Minecraft에서 LLM 기반 오픈엔디드 에이전트 |
 | ⬜ | [AutoGen](reviews/agent/autogen.md) | Microsoft | 2023 | 멀티 에이전트 대화 프레임워크 |
 | ⬜ | [AgentBench](reviews/agent/agentbench.md) | 清华大学 | ICLR 2024 | LLM을 에이전트로 평가하는 종합 벤치마크 |

@@ -101,7 +101,7 @@ Multimodal AI, Agentic AI 분야의 주요 논문을 한국어로 리뷰하고 �
 |:----:|------|------|------|
 | ✅ | ReAct | Princeton / Google | ICLR 2023 |
 | ✅ | Toolformer | Meta | NeurIPS 2023 |
-| 🔄 | Generative Agents | Stanford | UIST 2023 |
+| ✅ | Generative Agents | Stanford / Google | UIST 2023 |
 | ⬜ | Voyager | NVIDIA et al. | 2023 |
 | ⬜ | AutoGen | Microsoft | 2023 |
 | ⬜ | AgentBench | 清华大学 | ICLR 2024 |
