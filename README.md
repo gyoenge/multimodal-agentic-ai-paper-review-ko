@@ -63,7 +63,7 @@ Multimodal AI, Agentic AI 분야의 주요 논문을 한국어로 리뷰하고 �
 | ⬜ | T5 | Google | JMLR 2020 |
 | 🔄 | InstructGPT | OpenAI | NeurIPS 2022 |
 | ✅ | Chain-of-Thought | Google | NeurIPS 2022 |
-| 🔄 | LLaMA | Meta | 2023 |
+| ✅ | LLaMA | Meta | 2023 |
 | ⬜ | LLaMA 2 | Meta | 2023 |
 | ⬜ | Mistral 7B | Mistral AI | 2023 |
 | ⬜ | LLaMA 3 | Meta | 2024 |
