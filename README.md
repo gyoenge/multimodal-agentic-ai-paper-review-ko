@@ -39,7 +39,7 @@ Multimodal AI, Agentic AI 분야의 주요 논문을 한국어로 리뷰하고 �
 | ✅ | CLIP | OpenAI | ICML 2021 |
 | ⬜ | ALIGN | Google | ICML 2021 |
 | ⬜ | Flamingo | DeepMind | NeurIPS 2022 |
-| 🔄 | BLIP | Salesforce | ICML 2022 |
+| ✅ | BLIP | Salesforce | ICML 2022 |
 | 🔄 | BLIP-2 | Salesforce | ICML 2023 |
 | 🔄 | LLaVA | - | NeurIPS 2023 |
 | ⬜ | InstructBLIP | Salesforce | NeurIPS 2023 |
