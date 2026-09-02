@@ -12,7 +12,7 @@ VLM 핵심 논문
 
 | 상태 | 논문 | 기관 | 발표 | 한 줄 요약 |
 |:----:|------|------|------|------------|
-| 🔄 | [CLIP](reviews/vlm/clip.md) | OpenAI | ICML 2021 | 대규모 이미지-텍스트 대조 학습으로 zero-shot 전이 |
+| ✅ | [CLIP](reviews/vlm/clip.md) | OpenAI | ICML 2021 | 대규모 이미지-텍스트 대조 학습으로 zero-shot 전이 |
 | ⬜ | [ALIGN](reviews/vlm/align.md) | Google | ICML 2021 | noisy 웹 데이터로 image-text 표현 학습 스케일업 |
 | ⬜ | [Flamingo](reviews/vlm/flamingo.md) | DeepMind | NeurIPS 2022 | frozen LM에 visual 입력 연결, few-shot VLM |
 | 🔄 | [BLIP](reviews/vlm/blip.md) | Salesforce | ICML 2022 | 캡션 생성으로 noisy 데이터 부트스트랩 |
