@@ -27,7 +27,7 @@ VLM 최신 논문 (~2025)
 |:----:|------|------|------|------|
 | ✅ | [LLaVA-1.5](reviews/vlm/llava-1-5.md) | UW-Madison / MS | CVPR 2024 | MLP connector, 고해상도 타일링 |
 | ⬜ | [InternVL2](reviews/vlm/internvl2.md) | Shanghai AI Lab | 2024 | 오픈소스 SOTA, 동적 해상도 |
-| ⬜ | [Qwen2-VL](reviews/vlm/qwen2-vl.md) | Alibaba | 2024 | Naive Dynamic Resolution, 영상 이해 강화 |
+| ✅ | [Qwen2-VL](reviews/vlm/qwen2-vl.md) | Alibaba | 2024 | Naive Dynamic Resolution, 영상 이해 강화 |
 | ⬜ | [PaliGemma](reviews/vlm/paligemma.md) | Google | 2024 | SigLIP + Gemma, 경량 VLM |
 | ⬜ | [Molmo](reviews/vlm/molmo.md) | AI2 | 2024 | pointing 능력, 오픈소스 |
 | ⬜ | [Cambrian-1](reviews/vlm/cambrian-1.md) | NYU | 2024 | spatial vision aggregator, 다중 인코더 |

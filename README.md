@@ -46,7 +46,7 @@ Multimodal AI, Agentic AI 분야의 주요 논문을 한국어로 리뷰하고 �
 | ⬜ | GPT-4V | OpenAI | 2023 |
 | ✅ | LLaVA-1.5 | UW-Madison / MS | 2024 |
 | ⬜ | InternVL2 | Shanghai AI Lab | 2024 |
-| ⬜ | Qwen2-VL | Alibaba | 2024 |
+| ✅ | Qwen2-VL | Alibaba | 2024 |
 | ⬜ | PaliGemma | Google | 2024 |
 | ⬜ | Molmo | AI2 | 2024 |
 | ⬜ | Cambrian-1 | NYU | 2024 |
